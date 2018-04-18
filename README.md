@@ -13,3 +13,5 @@ ________________________________________________________________________________
 ![](screenShots/2.png) -->
 
 After meeting with Lindsay it turns out the issue was with the database created in phpMyAdmin.  My table had been deleted but also already existed so I couldn't recreate it.  I had to drop it and then recreate it and the app is now functioning properly.
+
+[](screenShots/working.png)
